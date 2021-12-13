@@ -446,7 +446,7 @@ footer {
 */
 
 #about {
-    padding: 75px 15px;
+    padding: 75px;
     border-bottom: 1px solid $border;
 
     h2 {
@@ -459,9 +459,8 @@ footer {
     }
    .aboutme-image{
     width: 50px; 
-    height: 50px;
+    height: auto;
     object-position: bottom;
-    text-align: left;
     padding-top: 2rem;
     }
     
